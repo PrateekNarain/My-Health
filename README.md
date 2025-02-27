@@ -1,5 +1,5 @@
 
-# HEALTH++ : Doctor Appointment Booking System using PHP
+# My Health : Doctor Appointment Booking System using PHP
 
 
 
